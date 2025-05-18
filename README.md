@@ -4,9 +4,9 @@
 
 This project implements a convolutional neural network (CNN) to classify handwritten Arabic digits using TensorFlow and Keras. It includes both training code and a Streamlit web interface for making predictions on new images.
 
-![digits](test2.png)
-![digits](test1.png)
-![digits](test3.png)
+![digits](TestScreens/test2.png)
+![digits](TestScreens/test1.png)
+![digits](TestScreens/test3.png)
 
 ## Project Overview
 
